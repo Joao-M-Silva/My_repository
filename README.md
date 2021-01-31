@@ -1,2 +1,3 @@
 # My_repository
-This is my first repository. 
+Repository with my datascience micro projects
+
