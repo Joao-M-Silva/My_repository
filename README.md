@@ -1,3 +1,3 @@
 # My_repository
-Repository with my datascience micro projects
+Repository with my datascience study projects
 
